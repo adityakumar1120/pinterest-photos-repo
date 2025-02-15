@@ -1,6 +1,6 @@
 const arr =[
-    {name:'shivam', image:'./shivam.jpg'},
-    {name:'mountain', image:'https://plus.unsplash.com/premium_photo-1708110921398-1fc68e98eacc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW9kZWxzfGVufDB8fDB8fHww'},
+    {name:'shivam', image:'./img/shivam.jpg'},
+    {name:'yashshree', image:'./img/yashshree.jpg'},
     {name:'patals of flower', image:'https://images.unsplash.com/photo-1647696087996-544fbe6ead43?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmF1dHVyZXxlbnwwfHwwfHx8MA%3D%3D'}, 
     {name:'patals of flower', image:'https://images.unsplash.com/photo-1724733613256-a1ed7936bb70?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG5hdXR1cmV8ZW58MHx8MHx8fDA%3D'},
     {name:'patals of flower', image:'https://images.unsplash.com/photo-1565356631598-f3eb1a1dad4a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bmF1dHVyZXxlbnwwfHwwfHx8MA%3D%3D'},
